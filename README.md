@@ -16,3 +16,5 @@ https://stackoverflow.com/questions/38413594/org-springframework-boot-web-suppor
 https://www.google.com/search?q=static+%7B%7D+java&oq=static+%7B%7D+java&aqs=chrome..69i57j0l5.12386j1j7&sourceid=chrome&ie=UTF-8
 
 https://stackoverflow.com/questions/8082469/what-does-static-mean-in-the-java-syntax/8082526
+
+https://docs.oracle.com/javase/tutorial/java/javaOO/initial.html
