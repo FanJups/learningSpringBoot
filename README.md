@@ -24,3 +24,9 @@ https://docs.oracle.com/javase/tutorial/java/javaOO/initial.html
 https://www.google.com/search?q=failed+to+clean+project+failed+to+delete&oq=failed+to+clea&aqs=chrome.1.69i57j0l5.48935j1j7&sourceid=chrome&ie=UTF-8
 
 https://stackoverflow.com/questions/19489720/maven-failed-to-clean-project-failed-to-delete-org-ow2-util-asm-asm-tree
+
+## message.properties spring boot
+
+https://www.google.com/search?q=message.properties+spring+boot&oq=message.properties+&aqs=chrome.2.69i58j69i57j0l3.16505j1j7&sourceid=chrome&ie=UTF-8
+
+https://www.baeldung.com/spring-boot-internationalization
