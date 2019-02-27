@@ -68,5 +68,13 @@ https://www.google.com/search?q=enable+scheduling+spring+boot&oq=EnableSchedulin
 
 https://spring.io/guides/gs/scheduling-tasks/
 
+## how to configure https in spring boot
+
+https://www.google.com/search?ei=G5F2XP6bG4adlwSw-YegBw&q=how+to+configure+https+in+spring+boot&oq=how+to+configure+https+in+spring+boot&gs_l=psy-ab.3..35i39j0i8i30.266511.266511..267445...0.0..0.91.91.1......0....1..gws-wiz.......0i71.i01QJpjdrjQ
+
+https://drissamri.be/blog/java/enable-https-in-spring-boot/
+
+https://www.baeldung.com/spring-boot-https-self-signed-certificate
+
 
 
