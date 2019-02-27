@@ -82,5 +82,11 @@ https://www.google.com/search?q=opened+ports+windows+cmd&oq=available+ports+wind
 
 https://support.kaspersky.com/common/windows/101
 
+## where to store keystore.p12 file spring boot ?
+
+https://www.google.com/search?q=where+to+store+keystore.p12+file+spring+boot+%3F&oq=where+to+store+keystore.p12+file+spring+boot+%3F&aqs=chrome..69i57.25249j1j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/51177317/client-certificate-authentication-with-spring-boot
+
 
 
