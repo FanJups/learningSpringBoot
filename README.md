@@ -76,5 +76,11 @@ https://drissamri.be/blog/java/enable-https-in-spring-boot/
 
 https://www.baeldung.com/spring-boot-https-self-signed-certificate
 
+## opened ports windows cmd
+
+https://www.google.com/search?q=opened+ports+windows+cmd&oq=available+ports+windows&aqs=chrome.4.69i57j0l5.15504j1j7&sourceid=chrome&ie=UTF-8
+
+https://support.kaspersky.com/common/windows/101
+
 
 
