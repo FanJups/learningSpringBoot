@@ -56,5 +56,17 @@ https://www.baeldung.com/spring-custom-validation-message-source
 
 https://medium.com/skillhive/internalization-in-spring-boot-22f4fa82f132
 
+## can not find symbol EnableScheduling
+
+https://www.google.com/search?q=can+not+find+symbol+EnableScheduling&oq=can+not+find+symbol+EnableScheduling&aqs=chrome..69i57j69i64.34394j1j7&sourceid=chrome&ie=UTF-8
+
+https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/scheduling/annotation/EnableScheduling.html
+
+## enable scheduling spring boot
+
+https://www.google.com/search?q=enable+scheduling+spring+boot&oq=EnableScheduling+&aqs=chrome.3.69i57j69i60j0l4.9899j1j7&sourceid=chrome&ie=UTF-8
+
+https://spring.io/guides/gs/scheduling-tasks/
+
 
 
