@@ -42,3 +42,19 @@ https://www.javadevjournal.com/spring-boot/spring-boot-internationalization/
 
 https://github.com/spring-projects/spring-boot/issues/4930
 
+## content-language is set to en-US but page is writtern in french spring boot
+
+https://www.google.com/search?q=content-language+is+set+to+en-US+but+page+is+writtern+in+french+spring+boot&oq=content-language+is+set+to+en-US+but+page+is+writtern+in+french+spring+boot&aqs=chrome..69i57.44575j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/2467454/why-does-chrome-incorrectly-determine-page-is-in-a-different-language-and-offer
+
+## message.properties or message.properties spring boot ?
+
+https://www.google.com/search?q=message.properties+or+message.properties+spring+boot+%3F&oq=message.properties+or+message.properties+spring+boot+%3F&aqs=chrome..69i57.31029j1j7&sourceid=chrome&ie=UTF-8
+
+https://www.baeldung.com/spring-custom-validation-message-source
+
+https://medium.com/skillhive/internalization-in-spring-boot-22f4fa82f132
+
+
+
