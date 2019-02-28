@@ -114,5 +114,19 @@ https://www.google.com/search?q=failed+to+execute+goal+org.apache.maven.plugins+
 
 https://stackoverflow.com/questions/13170860/failed-to-execute-goal-org-apache-maven-pluginsmaven-surefire-plugin2-10test
 
+## spring config client doesn't refresh
+
+https://www.google.com/search?q=spring+config+client+doesn%27t+refresh&oq=spring+config+client+doesn%27t+refresh&aqs=chrome..69i57.18218j1j7&sourceid=chrome&ie=UTF-8
+
+https://www.devglan.com/spring-cloud/refresh-property-config-runtime
+
+## @Refreshscope doesn't work
+
+https://www.google.com/search?q=%40Refreshscope+doesn%27t+work&oq=%40Refreshscope+doesn%27t+work&aqs=chrome..69i57j0.11826j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/45137555/refreshscope-not-working-spring-boot
+
+https://github.com/spring-cloud/spring-cloud-config/issues/519
+
 
 
