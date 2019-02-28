@@ -128,5 +128,11 @@ https://stackoverflow.com/questions/45137555/refreshscope-not-working-spring-boo
 
 https://github.com/spring-cloud/spring-cloud-config/issues/519
 
+## @ConfigurationProperties
+
+https://www.google.com/search?q=%40ConfigurationProperties&oq=%40ConfigurationProperties&aqs=chrome..69i57j0l5.6524j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.baeldung.com/configuration-properties-in-spring-boot
+
 
 
