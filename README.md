@@ -160,5 +160,17 @@ https://mvnrepository.com/artifact/de.codecentric/spring-boot-admin-server-ui/2.
 
 https://mvnrepository.com/artifact/de.codecentric/spring-boot-admin-server/2.1.3
 
+## @enableadminserver spring boot
+
+https://www.google.com/search?q=%40enableadminserver+spring+boot&oq=%40EnableAdminServer&aqs=chrome.1.69i57j0l5.3201j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.baeldung.com/spring-boot-admin
+
+## import @enableadminserver spring boot
+
+https://www.google.com/search?ei=7Vp4XLD1B4meUPTmibAJ&q=import+%40enableadminserver+spring+boot&oq=import+%40enableadminserver+spring+boot&gs_l=psy-ab.3...126880.128619..129455...0.0..0.104.551.6j1......0....1..gws-wiz.......0i71.D0mBlCW7-xg
+
+
+
 
 
