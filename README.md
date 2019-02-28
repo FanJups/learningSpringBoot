@@ -108,5 +108,11 @@ https://www.baeldung.com/spring-cloud-configuration
 
 https://cloud.spring.io/spring-cloud-config/multi/multi__spring_cloud_config_server.html
 
+## failed to execute goal org.apache.maven.plugins maven-surefire-plugin : 2.12.4
+
+https://www.google.com/search?q=failed+to+execute+goal+org.apache.maven.plugins+maven-surefire-plugin+%3A+2.12.4&oq=failed+to+execute+&aqs=chrome.1.69i57j35i39j69i59j0l3.23916j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/13170860/failed-to-execute-goal-org-apache-maven-pluginsmaven-surefire-plugin2-10test
+
 
 
