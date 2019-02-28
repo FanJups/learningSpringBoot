@@ -88,5 +88,17 @@ https://www.google.com/search?q=where+to+store+keystore.p12+file+spring+boot+%3F
 
 https://stackoverflow.com/questions/51177317/client-certificate-authentication-with-spring-boot
 
+## spring cloud configuration server
+
+https://www.google.com/search?q=spring+cloud+configuration+server&oq=spring+cloud+configuration+server&aqs=chrome..69i57j69i60j0l4.12598j1j7&sourceid=chrome&ie=UTF-8
+
+https://spring.io/projects/spring-cloud-config
+
+## spring cloud config server local folder
+
+https://www.google.com/search?ei=wFJ3XJqVDIqwgwfz8I6QDw&q=spring+cloud+config+server+local+folder&oq=spring+cloud+configuration+server&gs_l=psy-ab.1.5.0i71l8.0.0..324754...0.0..0.0.0.......0......gws-wiz.QSdlXMDpePA
+
+https://stackoverflow.com/questions/27131143/spring-cloud-configuration-server-not-working-with-local-properties-file
+
 
 
