@@ -146,6 +146,8 @@ https://github.com/jeroenbellen/blog-manage-and-reload-spring-properties/blob/ma
 
 https://www.google.com/search?q=what+to+import+to+use+%40refreshscope+spring+boot&oq=what+to+import+to+use+%40refreshscope+spring+boot&aqs=chrome..69i57.28926j1j7&sourceid=chrome&ie=UTF-8
 
+great
+
 https://spring.io/guides/gs/centralized-configuration/
 
 https://stackoverflow.com/questions/26717187/refreshing-spring-boot-properties
