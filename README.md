@@ -152,5 +152,13 @@ https://spring.io/guides/gs/centralized-configuration/
 
 https://stackoverflow.com/questions/26717187/refreshing-spring-boot-properties
 
+## spring-boot-admin-server-ui & spring boot admin server maven
+
+https://www.google.com/search?q=spring-boot-admin-server-ui+maven&oq=spring-boot-admin-server-ui+&aqs=chrome.1.69i57j0l5.3459j0j7&sourceid=chrome&ie=UTF-8
+
+https://mvnrepository.com/artifact/de.codecentric/spring-boot-admin-server-ui/2.1.3
+
+https://mvnrepository.com/artifact/de.codecentric/spring-boot-admin-server/2.1.3
+
 
 
