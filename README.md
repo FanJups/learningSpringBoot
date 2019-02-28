@@ -134,5 +134,13 @@ https://www.google.com/search?q=%40ConfigurationProperties&oq=%40ConfigurationPr
 
 https://www.baeldung.com/configuration-properties-in-spring-boot
 
+## @RefreshScope
+
+https://www.google.com/search?q=%40RefreshScope&oq=%40RefreshScope&aqs=chrome..69i57j69i59j69i61j0l3.1963j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/45137555/refreshscope-not-working-spring-boot
+
+https://github.com/jeroenbellen/blog-manage-and-reload-spring-properties/blob/master/example-service/src/main/java/com/github/jeroenbellen/ExampleServiceApplication.java
+
 
 
