@@ -100,5 +100,11 @@ https://www.google.com/search?ei=wFJ3XJqVDIqwgwfz8I6QDw&q=spring+cloud+config+se
 
 https://stackoverflow.com/questions/27131143/spring-cloud-configuration-server-not-working-with-local-properties-file
 
+## spring cloud config server git uri file
+
+https://www.google.com/search?ei=eVd3XP7VCduCjLsP2Pe9oAI&q=spring+cloud+config+server+git+uri+file&oq=config+server+spring+git&gs_l=psy-ab.1.6.0i71l8.0.0..156996...0.0..0.0.0.......0......gws-wiz.0dMroIzX588
+
+https://www.baeldung.com/spring-cloud-configuration
+
 
 
