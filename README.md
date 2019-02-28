@@ -106,5 +106,7 @@ https://www.google.com/search?ei=eVd3XP7VCduCjLsP2Pe9oAI&q=spring+cloud+config+s
 
 https://www.baeldung.com/spring-cloud-configuration
 
+https://cloud.spring.io/spring-cloud-config/multi/multi__spring_cloud_config_server.html
+
 
 
