@@ -170,6 +170,12 @@ https://www.baeldung.com/spring-boot-admin
 
 https://www.google.com/search?ei=7Vp4XLD1B4meUPTmibAJ&q=import+%40enableadminserver+spring+boot&oq=import+%40enableadminserver+spring+boot&gs_l=psy-ab.3...126880.128619..129455...0.0..0.104.551.6j1......0....1..gws-wiz.......0i71.D0mBlCW7-xg
 
+## springfox-swagger maven
+
+https://www.google.com/search?ei=MG96XP6gEcu2ab2ji5gO&q=springfox-swagger+maven&oq=springfox-swagger+maven&gs_l=psy-ab.3..35i39j0i7i30i19l8j0i8i7i30i19.485181.485181..485596...0.0..0.119.119.0j1......0....1..gws-wiz.......0i71.AlxpH0qLpG0
+
+
+
 
 
 
