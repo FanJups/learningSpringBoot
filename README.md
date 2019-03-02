@@ -182,6 +182,14 @@ https://www.google.com/search?q=docker+maven&oq=docker+maven&aqs=chrome..69i57j0
 
 https://github.com/spotify/docker-maven-plugin
 
+## entrypoint docker
+
+https://www.google.com/search?q=entrypoint+docker&oq=entry&aqs=chrome.1.69i57j0l2j69i61j35i39j0.4788j1j7&sourceid=chrome&ie=UTF-8
+
+https://docs.docker.com/engine/reference/builder/
+
+https://medium.freecodecamp.org/docker-entrypoint-cmd-dockerfile-best-practices-abc591c30e21
+
 
 
 
