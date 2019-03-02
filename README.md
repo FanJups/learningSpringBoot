@@ -196,6 +196,26 @@ https://www.google.com/search?q=Enable+the+Expose+daemon+on+tcp%3A%2F%2Flocalhos
 
 https://software.intel.com/en-us/intel-system-studio-docker-install-windows-configure-docker-for-windows
 
+## zipkin-server maven
+
+https://www.google.com/search?ei=pON6XNKFB4mMlwSOy7yQCQ&q=zipkin-server+maven&oq=zipkin-server+&gs_l=psy-ab.1.0.0i203l2j0i30l8.1625.1625..3748...0.0..0.81.81.1......0....1..gws-wiz.......0i71.6QIXYjQGbN0
+
+https://mvnrepository.com/artifact/io.zipkin.java/zipkin-server
+
+## zipkin-autoconfigure-ui maven
+
+https://www.google.com/search?hl=fr&authuser=0&ei=quN6XOITwsGgBNS6tQg&q=zipkin-autoconfigure-ui+maven&oq=zipkin-autoconfigure-ui+maven&gs_l=psy-ab.3..0i19.212122.214252..215479...0.0..1.129.1367.8j6......0....1j2..gws-wiz.......0i71j0i7i30i19j0i8i7i30i19j35i39j0i67j0.J5pbA8FOBpE
+
+## initializationerror maven
+
+https://www.google.com/search?ei=Jud6XOaDO8iYa-bYnJgC&q=++initializationerror+maven&oq=++initializationerror+maven&gs_l=psy-ab.3..35i39j0i7i30j0i30j0i8i10i30.73921.81570..82480...0.0..0.84.157.2......0....1..gws-wiz.bwkGnBPXncM
+
+## failed to execute goal org.apache.maven.plugins maven-surefire-plugin : 2.22.1
+
+https://www.google.com/search?ei=o-l6XIuBM4eSlwTpoKgI&q=failed+to+execute+goal+org.apache.maven.plugins+maven-surefire-plugin+%3A+2.22.1&oq=failed+to+execute+goal+org.apache.maven.plugins+maven-surefire-plugin+%3A+2.22.1&gs_l=psy-ab.3..0i203.28319.31820..32095...0.0..0.99.346.4......0....1..gws-wiz.......0i22i30.eanS3Fbe0Y8
+
+https://github.com/cbeust/testng/issues/1693
+
 
 
 
