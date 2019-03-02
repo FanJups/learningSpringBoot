@@ -174,6 +174,8 @@ https://www.google.com/search?ei=7Vp4XLD1B4meUPTmibAJ&q=import+%40enableadminser
 
 https://www.google.com/search?ei=MG96XP6gEcu2ab2ji5gO&q=springfox-swagger+maven&oq=springfox-swagger+maven&gs_l=psy-ab.3..35i39j0i7i30i19l8j0i8i7i30i19.485181.485181..485596...0.0..0.119.119.0j1......0....1..gws-wiz.......0i71.AlxpH0qLpG0
 
+https://mvnrepository.com/artifact/io.springfox
+
 
 
 
