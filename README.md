@@ -176,6 +176,12 @@ https://www.google.com/search?ei=MG96XP6gEcu2ab2ji5gO&q=springfox-swagger+maven&
 
 https://mvnrepository.com/artifact/io.springfox
 
+## docker maven
+
+https://www.google.com/search?q=docker+maven&oq=docker+maven&aqs=chrome..69i57j0l5.4107j1j7&sourceid=chrome&ie=UTF-8
+
+https://github.com/spotify/docker-maven-plugin
+
 
 
 
