@@ -190,6 +190,12 @@ https://docs.docker.com/engine/reference/builder/
 
 https://medium.freecodecamp.org/docker-entrypoint-cmd-dockerfile-best-practices-abc591c30e21
 
+## Enable the Expose daemon on tcp://localhost:2375 without TLS
+
+https://www.google.com/search?q=Enable+the+Expose+daemon+on+tcp%3A%2F%2Flocalhost%3A2375+without+TLS&oq=Enable+the+Expose+daemon+on+tcp%3A%2F%2Flocalhost%3A2375+without+TLS&aqs=chrome..69i57.2117j0j7&sourceid=chrome&ie=UTF-8
+
+https://software.intel.com/en-us/intel-system-studio-docker-install-windows-configure-docker-for-windows
+
 
 
 
