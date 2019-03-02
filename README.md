@@ -228,6 +228,20 @@ https://www.google.com/search?ei=--96XOOOH4iIaZeCvpgL&q=zipkin-+maven+build+fail
 
 https://dzone.com/articles/spring-cloud-amp-spring-bootimplementing-zipkin-se
 
+## how to use zipkin server with maven
+
+https://www.google.com/search?q=how+to+use+zipkin+server+with+maven&oq=how+to+use+zipkin+server+with+maven&aqs=chrome..69i57.16223j1j7&sourceid=chrome&ie=UTF-8
+
+## maven central zipkin server
+
+https://www.google.com/search?q=maven+central+zipkin+server&oq=maven+central+zipkin+server&aqs=chrome..69i57j0.9153j1j7&sourceid=chrome&ie=UTF-8
+
+## zipkin server
+
+https://www.google.com/search?q=zipkin+server&oq=zipkin+server&aqs=chrome..69i57j69i60l3j35i39l2.4133j1j7&sourceid=chrome&ie=UTF-8
+
+https://github.com/openzipkin/zipkin/tree/master/zipkin-server
+
 
 
 
