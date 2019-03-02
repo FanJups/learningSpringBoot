@@ -242,6 +242,18 @@ https://www.google.com/search?q=zipkin+server&oq=zipkin+server&aqs=chrome..69i57
 
 https://github.com/openzipkin/zipkin/tree/master/zipkin-server
 
+## how to add jar file in pom.xml
+
+https://www.google.com/search?q=how+to+add+jar+file+in+pom.xml&oq=how+to+add+a+jar+file+on+po&aqs=chrome.1.69i57j0l5.16843j1j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/4955635/how-to-add-local-jar-files-to-a-maven-project
+
+https://stackoverflow.com/questions/51934410/project-build-error-dependencies-dependency-version-for-io-zipkin-javazipkin
+
+http://onlyfullstack.blogspot.com/2018/07/setting-up-zipkin-server.html
+
+https://onlyfullstack.blogspot.com/2018/09/microservices-with-spring-sleuth-and-zipkin.html
+
 
 
 
