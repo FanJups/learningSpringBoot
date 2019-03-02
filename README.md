@@ -216,6 +216,20 @@ https://www.google.com/search?ei=o-l6XIuBM4eSlwTpoKgI&q=failed+to+execute+goal+o
 
 https://github.com/cbeust/testng/issues/1693
 
+## mojofailureexception
+
+https://www.google.com/search?q=mojofailureexception&oq=MojoFa&aqs=chrome.1.69i57j0l5.8016j1j7&sourceid=chrome&ie=UTF-8
+
+https://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+## zipkin- maven build failure
+
+https://www.google.com/search?ei=--96XOOOH4iIaZeCvpgL&q=zipkin-+maven+build+failure&oq=zipkin-+maven+build+failure&gs_l=psy-ab.3...343587.350671..351352...0.0..0.101.1221.14j1......0....1..gws-wiz.......0i71j0i7i30j0i22i30j33i21j33i160.CA_yDi72dy4
+
+https://dzone.com/articles/spring-cloud-amp-spring-bootimplementing-zipkin-se
+
+
+
 
 
 
