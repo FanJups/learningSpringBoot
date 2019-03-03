@@ -336,6 +336,14 @@ https://www.google.com/search?q=error+alternatives+in+a+multi-catch+statement+ca
 
 https://stackoverflow.com/questions/31404729/order-in-multi-catch-exception-handler
 
+## AddressException must be caught or declared to be thrown
+
+https://www.google.com/search?q=AddressException+must+be+caught+or+declared+to+be+thrown&oq=AddressException+must+be+caught+or+declared+to+be+thrown&aqs=chrome..69i57.42074j1j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/13998815/unreported-exception-must-be-caught-or-declared-to-be-thrown
+
+
+
 
 
 
