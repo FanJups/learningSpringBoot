@@ -254,6 +254,14 @@ http://onlyfullstack.blogspot.com/2018/07/setting-up-zipkin-server.html
 
 https://onlyfullstack.blogspot.com/2018/09/microservices-with-spring-sleuth-and-zipkin.html
 
+## flyway test failure maven
+
+https://www.google.com/search?q=flyway+test+failure+maven&oq=flyway+test+failure+maven&aqs=chrome..69i57.12774j1j7&sourceid=chrome&ie=UTF-8
+
+https://www.ivonet.nl/2016/08/16/spring-boot-with-flyway-and-how-to-get-your-tests-working/
+
+
+
 
 
 
