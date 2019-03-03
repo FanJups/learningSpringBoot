@@ -260,6 +260,12 @@ https://www.google.com/search?q=flyway+test+failure+maven&oq=flyway+test+failure
 
 https://www.ivonet.nl/2016/08/16/spring-boot-with-flyway-and-how-to-get-your-tests-working/
 
+## flyway illegalState failed to load applications maven
+
+https://www.google.com/search?q=flyway+illegalState+failed+to+load+applications+maven&oq=flyway+illegalState+failed+to+load+applications+maven&aqs=chrome..69i57.51535j0j7&sourceid=chrome&ie=UTF-8
+
+https://github.com/flyway/flyway/issues/1958
+
 
 
 
