@@ -274,6 +274,56 @@ https://www.developpez.net/forums/d1876029/java/general-java/server-time-zone-no
 
 https://stackoverflow.com/questions/26515700/mysql-jdbc-driver-5-1-33-time-zone-issue
 
+## sending email spring boot
+
+https://www.google.com/search?q=sending+email+spring+boot&oq=sending+email+spring+boot&aqs=chrome..69i57j69i60j0l4.74859j1j7&sourceid=chrome&ie=UTF-8
+
+https://www.baeldung.com/spring-email
+
+https://o7planning.org/fr/11145/tutoriel-spring-email
+
+## addressexception java
+
+https://www.google.com/search?q=addressexception+java&oq=AddressException&aqs=chrome.2.69i57j0l5.5136j0j7&sourceid=chrome&ie=UTF-8
+
+https://docs.oracle.com/javaee/7/api/javax/mail/internet/AddressException.html
+
+## ioexception java
+
+https://www.google.com/search?ei=Fil8XIedA6OvgweN0rXICg&q=ioexception+java&oq=ioexception+java&gs_l=psy-ab.3..0i20i263j0i7i10i30j0j0i20i263j0i7i30j0i7i10i30j0i7i30j0i203l3.243263.243524..244855...0.0..0.95.163.2......0....1..gws-wiz.......0i13.L6G3yblSrz4
+
+https://docs.oracle.com/javase/7/docs/api/java/io/IOException.html
+
+## Session java
+
+https://www.google.com/search?hl=fr&authuser=0&ei=Dyp8XMe3L5vM-QbPgrmYCg&q=Session+java&oq=Session+java&gs_l=psy-ab.3..0l3j0i203l5j0j0i203.94624.98565..99631...0.0..0.157.813.5j3......0....1..gws-wiz.......0i71j0i67j0i7i30j0i13j0i7i10i30j0i8i7i30j0i8i13i30j0i8i13i10i30j0i13i30j0i10i30.w2QTE_3mdp0
+
+https://openclassrooms.com/fr/courses/2434016-developpez-des-sites-web-avec-java-ee/2438676-gerer-les-sessions
+
+## PasswordAuthentication java
+
+https://www.google.com/search?hl=fr&authuser=0&ei=eCp8XLW1L42vgwez54-ADw&q=PasswordAuthentication+java&oq=PasswordAuthentication+java&gs_l=psy-ab.3..0j0i7i30j0i203j0i30l3j0i8i30l4.208935.210660..212149...0.0..0.150.794.2j5......0....1j2..gws-wiz.......0i71j35i304i39j0i13j35i39j0i67j0i20i263.6bsk-140IzQ
+
+https://docs.oracle.com/javase/7/docs/api/java/net/PasswordAuthentication.html
+
+## Message java spring boot mail
+
+https://www.google.com/search?hl=fr&authuser=0&ei=GCx8XKKvIaHMgwfZ_otI&q=Message+java+spring+boot+mail+&oq=Message+java+spring+boot+mail+&gs_l=psy-ab.3..33i22i29i30l5.54211.59910..60513...0.0..0.123.1728.12j6......0....1..gws-wiz.......0i71j0j0i203j0i22i30j0i22i10i30j0i8i13i30.QjrLaqpD8UA
+
+http://dolszewski.com/spring/sending-html-mail-with-spring-boot-and-thymeleaf/
+
+## Message java  mail
+
+https://www.google.com/search?hl=fr&authuser=0&ei=WCx8XOnKJ6Pkgwfny42oCw&q=Message+java++mail&oq=Message+java++mail&gs_l=psy-ab.3..0i13i30j0i30j0i10i30l2j0i13i5i30l6.105139.105139..105542...0.0..0.80.80.1......0....1..gws-wiz.......0i71.rwEPIF10ATw
+
+https://www.jmdoudoux.fr/java/dej/chap-javamail.htm
+
+## PasswordAuthentication java mail
+
+https://www.google.com/search?q=PasswordAuthentication+java+mail&oq=PasswordAuthentication+java+mail&aqs=chrome..69i57j0l3.4935j0j7&sourceid=chrome&ie=UTF-8
+
+https://docs.oracle.com/javaee/6/api/javax/mail/PasswordAuthentication.html
+
 
 
 
