@@ -266,6 +266,14 @@ https://www.google.com/search?q=flyway+illegalState+failed+to+load+applications+
 
 https://github.com/flyway/flyway/issues/1958
 
+## the server time zone value 'paris madrid' is unrecognized or represents more than one time zone
+
+https://www.google.com/search?q=the+server+time+zone+value+%27paris+madrid%27+is+unrecognized+or+represents+more+than+one+time+zone&oq=The+server+&aqs=chrome.2.69i57j0l5.7964j1j7&sourceid=chrome&ie=UTF-8
+
+https://www.developpez.net/forums/d1876029/java/general-java/server-time-zone-non-reconnu/
+
+https://stackoverflow.com/questions/26515700/mysql-jdbc-driver-5-1-33-time-zone-issue
+
 
 
 
