@@ -324,6 +324,18 @@ https://www.google.com/search?q=PasswordAuthentication+java+mail&oq=PasswordAuth
 
 https://docs.oracle.com/javaee/6/api/javax/mail/PasswordAuthentication.html
 
+## how to catch multiple exceptions java
+
+https://www.google.com/search?q=how+to+catch+multiple+exceptions+java&oq=how+to+catch+multiple+exceptions+java&aqs=chrome..69i57j0l5.16780j1j7&sourceid=chrome&ie=UTF-8
+
+https://www.journaldev.com/629/java-catch-multiple-exceptions-rethrow-exception
+
+## error alternatives in a multi-catch statement cannot be related by subclassing
+
+https://www.google.com/search?q=error+alternatives+in+a+multi-catch+statement+cannot+be+related+by+subclassing&oq=alternative+in+a+multi-catc&aqs=chrome.1.69i57j0l2.50499j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/31404729/order-in-multi-catch-exception-handler
+
 
 
 
