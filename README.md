@@ -360,6 +360,12 @@ https://www.google.com/search?q=HtmlUtils&oq=HtmlUtils&aqs=chrome..69i57j0l5.480
 
 https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/util/HtmlUtils.html
 
+## batch service spring boot
+
+https://www.google.com/search?q=batch+service+spring+boot&oq=batch+service+spring+boot&aqs=chrome..69i57j69i60.8725j1j7&sourceid=chrome&ie=UTF-8
+
+https://spring.io/guides/gs/batch-processing/
+
 
 
 
