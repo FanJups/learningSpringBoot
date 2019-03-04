@@ -366,6 +366,12 @@ https://www.google.com/search?q=batch+service+spring+boot&oq=batch+service+sprin
 
 https://spring.io/guides/gs/batch-processing/
 
+## mockito spring boot
+
+https://www.google.com/search?q=mockito+spring+boot&oq=mockito+spring+&aqs=chrome.1.69i57j0l5.10842j0j7&sourceid=chrome&ie=UTF-8
+
+http://www.springboottutorial.com/spring-boot-unit-testing-and-mocking-with-mockito-and-junit
+
 
 
 
