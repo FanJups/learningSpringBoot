@@ -342,6 +342,20 @@ https://www.google.com/search?q=AddressException+must+be+caught+or+declared+to+b
 
 https://stackoverflow.com/questions/13998815/unreported-exception-must-be-caught-or-declared-to-be-thrown
 
+## webjars-locator spring boot maven
+
+https://www.google.com/search?ei=-kB9XO_7KMSZlwSHxIr4DA&q=webjars-locator+spring+boot+maven&oq=webjars-locator+spring+boot+maven&gs_l=psy-ab.3..33i160.3137.5023..5442...0.0..0.121.564.4j2......0....1..gws-wiz.......0i71j0i203j0i22i30j33i21.mUu6zFuxBD4
+
+https://mvnrepository.com/artifact/org.webjars/webjars-locator/0.36
+
+## greeting websocket spring boot
+
+https://www.google.com/search?q=greeting+websocket+spring+boot&oq=greeting+websocket+spring+boot&aqs=chrome..69i57.16333j1j7&sourceid=chrome&ie=UTF-8
+
+https://spring.io/guides/gs/messaging-stomp-websocket/
+
+
+
 
 
 
