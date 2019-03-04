@@ -354,6 +354,12 @@ https://www.google.com/search?q=greeting+websocket+spring+boot&oq=greeting+webso
 
 https://spring.io/guides/gs/messaging-stomp-websocket/
 
+## HtmlUtils
+
+https://www.google.com/search?q=HtmlUtils&oq=HtmlUtils&aqs=chrome..69i57j0l5.4801j0j7&sourceid=chrome&ie=UTF-8
+
+https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/util/HtmlUtils.html
+
 
 
 
