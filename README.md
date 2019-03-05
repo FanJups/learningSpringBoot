@@ -380,6 +380,12 @@ https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-sql
 
 https://spring.io/guides/gs/accessing-data-mysql/
 
+## spring boot securing web application
+
+https://www.google.com/search?q=spring+boot+securing+web+application&oq=spring+boot+securing+web+application&aqs=chrome..69i57j69i60j0l4.12793j1j7&sourceid=chrome&ie=UTF-8
+
+https://spring.io/guides/gs/securing-web/
+
 
 
 
