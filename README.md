@@ -372,6 +372,14 @@ https://www.google.com/search?q=mockito+spring+boot&oq=mockito+spring+&aqs=chrom
 
 http://www.springboottutorial.com/spring-boot-unit-testing-and-mocking-with-mockito-and-junit
 
+## Spring Boot - Database Handling
+
+https://www.google.com/search?q=Spring+Boot+-+Database+Handling&oq=Spring+Boot+-+Database+Handling&aqs=chrome..69i57j0l4.2090j0j7&sourceid=chrome&ie=UTF-8
+
+https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-sql.html
+
+https://spring.io/guides/gs/accessing-data-mysql/
+
 
 
 
