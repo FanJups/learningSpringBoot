@@ -386,6 +386,20 @@ https://www.google.com/search?q=spring+boot+securing+web+application&oq=spring+b
 
 https://spring.io/guides/gs/securing-web/
 
+## generating private key openssl
+
+https://www.google.com/search?q=generating+private+key+openssl&oq=generating+private+key+&aqs=chrome.5.69i57j0l5.17439j1j7&sourceid=chrome&ie=UTF-8
+
+https://developers.yubico.com/PIV/Guides/Generating_keys_using_OpenSSL.html
+
+## generate private key openssl windows
+
+https://www.google.com/search?ei=md9-XKv2CpCma8jLg_AH&q=generate+private+key+openssl+windows&oq=generating+private+key+openssl+&gs_l=psy-ab.1.4.0i22i30l7j0i22i10i30j0i22i30l2.366319.366319..369386...0.0..0.87.87.1......0....1..gws-wiz.......0i71.GJDGlUldhbE
+
+https://helpcenter.gsx.com/hc/en-us/articles/115015960428-How-to-Generate-a-Self-Signed-Certificate-and-Private-Key-using-OpenSSL
+
+https://www.openssl.org/
+
 
 
 
