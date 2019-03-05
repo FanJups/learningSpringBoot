@@ -48,9 +48,9 @@ https://www.google.com/search?q=content-language+is+set+to+en-US+but+page+is+wri
 
 https://stackoverflow.com/questions/2467454/why-does-chrome-incorrectly-determine-page-is-in-a-different-language-and-offer
 
-## message.properties or message.properties spring boot ?
+## message.properties or messages.properties spring boot 
 
-https://www.google.com/search?q=message.properties+or+message.properties+spring+boot+%3F&oq=message.properties+or+message.properties+spring+boot+%3F&aqs=chrome..69i57.31029j1j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?ei=49V-XN6HDYuKlwTL36rADQ&q=message.properties+or+messages.properties+spring+boot&oq=message.properties+or+messages.properties+spring+boot&gs_l=psy-ab.3...10089.10089..11244...0.0..0.79.79.1......0....1..gws-wiz.......0i71.Eib4zN2A8TU
 
 https://www.baeldung.com/spring-custom-validation-message-source
 
