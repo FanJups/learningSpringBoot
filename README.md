@@ -400,6 +400,16 @@ https://helpcenter.gsx.com/hc/en-us/articles/115015960428-How-to-Generate-a-Self
 
 https://www.openssl.org/
 
+## generating private key using keytool
+
+https://www.google.com/search?q=generating+private+key+using+keytool&oq=generating+private+key+using+keytool&aqs=chrome..69i57j0l5.37294j1j7&sourceid=chrome&ie=UTF-8
+
+https://docs.microfocus.com/SM/9.60/Codeless/Content/security/tasks/use_keytool_to_create_a_private_key.htm
+
+https://access.redhat.com/documentation/en-us/red_hat_jboss_data_virtualization/6.3/html/security_guide/create_a_privatepublic_key_pair_with_keytool
+
+https://stackoverflow.com/questions/32867898/generate-private-and-public-key-file-using-keytool
+
 
 
 
