@@ -488,6 +488,20 @@ https://www.google.com/search?q=full+authentication+is+required+to+access+this+r
 https://www.google.com/search?q=full+authentication+is+required+to+access+this+resource+spring+boot+postman&oq=full+authentication+is+required+to+access+this+resource+spring+boot&aqs=chrome.5.69i57j69i60j0l4.3773j0j7&sourceid=chrome&ie=UTF-8
 
 https://stackoverflow.com/questions/49601371/spring-boot-oauth2-full-authentication-is-required-to-access-this-resource
+
+## spring boot oauth postman
+
+https://www.google.com/search?q=spring+boot+oauth+postman&oq=spring+boot+oauth+postman&aqs=chrome..69i57j0.15678j1j7&sourceid=chrome&ie=UTF-8
+
+https://www.devglan.com/spring-security/spring-boot-security-oauth2-example
+
+## encoded password does not look like bcrypt
+
+https://www.google.com/search?q=encoded+password+does+not+look+like+bcrypt&oq=encoded&aqs=chrome.1.69i57j0l5.14391j0j7&sourceid=chrome&ie=UTF-8
+
+https://github.com/Baeldung/spring-security-registration/issues/65
+
+https://stackoverflow.com/questions/49582971/encoded-password-does-not-look-like-bcrypt
   
 
 
