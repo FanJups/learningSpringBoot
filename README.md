@@ -553,6 +553,14 @@ https://www.google.com/search?q=build+failure+google+cloud+maven&oq=build+failur
 
 https://stackoverflow.com/questions/52707416/unable-to-deploy-maven-project-on-google-app-engine
 
+## deploying maven project on google cloud
+
+https://www.google.com/search?q=deploying+maven+project+on+google+cloud&oq=deploying+maven+project+on+google+cloud&aqs=chrome..69i57.23197j1j7&sourceid=chrome&ie=UTF-8
+
+https://cloud.google.com/appengine/docs/standard/java/tools/migrate-maven
+
+
+
 
   
 
