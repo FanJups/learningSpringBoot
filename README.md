@@ -410,6 +410,8 @@ https://access.redhat.com/documentation/en-us/red_hat_jboss_data_virtualization/
 
 https://stackoverflow.com/questions/32867898/generate-private-and-public-key-file-using-keytool
 
+http://infocenter.sybase.com/help/index.jsp?topic=/com.sybase.infocenter.dc01611.0510/doc/html/emc1296683181727.html
+
 ## What I use to generate private key
 
 https://docs.microfocus.com/SM/9.60/Codeless/Content/security/tasks/use_keytool_to_create_a_private_key.htm
