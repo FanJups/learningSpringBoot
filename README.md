@@ -509,6 +509,16 @@ https://www.google.com/search?q=google+cloud+platform+maven&oq=google+cloud+plat
 
 https://cloud.google.com/appengine/docs/standard/java/tools/maven?hl=fr
 
+## how to translate YAML file to properties file ?
+
+https://www.google.com/search?q=how+to+translate+YAML+file+to+properties+file+%3F&oq=how+to+translate+YAML+file+to+properties+file+%3F&aqs=chrome..69i57.19881j1j7&sourceid=chrome&ie=UTF-8
+
+## how to translate application.yml to application.properties file ?
+
+https://www.google.com/search?ei=gRWAXNWxFpH-arHaqKAO&q=how+to+translate+application.yml+to+application.properties+file+%3F&oq=how+to+translate+application.yml+to+application.properties+file+%3F&gs_l=psy-ab.3...225590.249210..251374...0.0..0.148.3427.28j10......0....1..gws-wiz.......0i71.PAxbrkanmj8
+
+https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-external-config.html
+
 
   
 
