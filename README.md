@@ -410,6 +410,14 @@ https://access.redhat.com/documentation/en-us/red_hat_jboss_data_virtualization/
 
 https://stackoverflow.com/questions/32867898/generate-private-and-public-key-file-using-keytool
 
+## What I use to generate private key
+
+https://docs.microfocus.com/SM/9.60/Codeless/Content/security/tasks/use_keytool_to_create_a_private_key.htm
+
+  keytool -genkey -keyalg RSA -keysize 2048 -alias jwt -keystore jwt.pem
+  
+
+
 
 
 
