@@ -502,6 +502,14 @@ https://www.google.com/search?q=encoded+password+does+not+look+like+bcrypt&oq=en
 https://github.com/Baeldung/spring-security-registration/issues/65
 
 https://stackoverflow.com/questions/49582971/encoded-password-does-not-look-like-bcrypt
+
+## google cloud platform maven
+
+https://www.google.com/search?q=google+cloud+platform+maven&oq=google+cloud+platform+maven&aqs=chrome..69i57j0j69i64.8829j1j7&sourceid=chrome&ie=UTF-8
+
+https://cloud.google.com/appengine/docs/standard/java/tools/maven?hl=fr
+
+
   
 
 
