@@ -416,7 +416,38 @@ http://infocenter.sybase.com/help/index.jsp?topic=/com.sybase.infocenter.dc01611
 
 https://docs.microfocus.com/SM/9.60/Codeless/Content/security/tasks/use_keytool_to_create_a_private_key.htm
 
+https://www.baeldung.com/spring-security-oauth-jwt
+
   keytool -genkey -keyalg RSA -keysize 2048 -alias jwt -keystore jwt.pem
+  
+## how to use private key spring boot oauth jwt
+
+https://www.google.com/search?ei=XU5_XPCYEMzeav35gsAB&q=how+to+use+private+key+spring+boot+oauth+jwt&oq=how+to+use+private+key+spring+boot+oauth+jwt&gs_l=psy-ab.3...3931859.4000893..4001137...1.0..3.287.6758.21j31j4......0....1..gws-wiz.....6..0i71j0i13i30j0i22i30j35i39j0i131j0j0i203j33i22i29i30j33i160j33i21.LU7qcgzl6MM
+
+Very interesting about pub key
+  
+https://www.baeldung.com/spring-security-oauth-jwt
+  
+  
+https://www.devglan.com/spring-security/spring-boot-oauth2-jwt-example
+
+## keytool
+
+https://www.google.com/search?ei=6WN_XIeCIeyZlwT4vbHYBQ&q=keytool+&oq=keytool+&gs_l=psy-ab.3..35i39j0i20i263l2j0i67j0l6.2114.3307..4936...0.0..0.147.615.5j2......0....1..gws-wiz.......0i71.GGPXDKLr1vs
+
+https://docs.oracle.com/javase/6/docs/technotes/tools/solaris/keytool.html
+
+## keytool export public key from jks
+
+https://www.google.com/search?q=keytool+export+public+key+from+jks&oq=export+public+key+keytool&aqs=chrome.1.69i57j0l5.31393j1j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/51547746/how-to-export-public-key-from-jks-file-using-keytool
+
+## keytool export private key from jks
+
+https://www.google.com/search?ei=imh_XKabDoeWa83DhcgH&q=keytool+export+private+key+from+jks&oq=keytool+export+private+key+from+jks&gs_l=psy-ab.3..0i203j0i8i30l2.175843.177576..178463...0.0..0.91.604.8......0....1..gws-wiz.......0i71j0i7i30j0i8i7i30j0i13i30j0i8i13i30j0i7i30i19j0i8i7i30i19.JS-E5D4nU5A
+
+https://security.stackexchange.com/questions/3779/how-can-i-export-my-private-key-from-a-java-keytool-keystore
   
 
 
