@@ -466,6 +466,28 @@ https://github.com/ameizi/spring-boot-oauth2-example/blob/master/OAuth2Server/sr
 https://www.google.com/search?ei=hHJ_XIWIKKKBur4P5ZyEuAw&q=KeyStoreKeyFactory&oq=KeyStoreKeyFactory&gs_l=psy-ab.3..35i39j0i203l2j0i10i30j0i5i30l2.274668.280115..281364...0.0..0.97.895.12......0....1..gws-wiz.......0i71j0i22i10i30.woqj8JslsLs
 
 https://docs.spring.io/spring-security/oauth/apidocs/org/springframework/security/oauth2/provider/token/store/KeyStoreKeyFactory.html
+
+## authorizedgranttypes spring
+
+https://www.google.com/search?q=authorizedgranttypes+spring&oq=authorizedGrantTypes&aqs=chrome.1.69i57j0l5.8952j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/45579623/what-the-configuration-of-spring-security-oauth2-authorizedgranttypes-means-in-p
+
+## grant_type postman
+
+https://www.google.com/search?q=grant_type+postman&oq=grant_type&aqs=chrome.4.69i57j0l5.16771j1j7&sourceid=chrome&ie=UTF-8
+
+https://wp-oauth.com/docs/how-to/using-postman-and-wp-rest-api/
+
+## full authentication is required to access this resource spring boot
+
+https://www.google.com/search?q=full+authentication+is+required+to+access+this+resource+spring+boot&oq=Full+authentication+is+required+to+access+this+resourc&aqs=chrome.2.69i57j0l5.6382j0j7&sourceid=chrome&ie=UTF-8
+
+## full authentication is required to access this resource spring boot postman
+
+https://www.google.com/search?q=full+authentication+is+required+to+access+this+resource+spring+boot+postman&oq=full+authentication+is+required+to+access+this+resource+spring+boot&aqs=chrome.5.69i57j69i60j0l4.3773j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/49601371/spring-boot-oauth2-full-authentication-is-required-to-access-this-resource
   
 
 
