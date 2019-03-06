@@ -525,6 +525,12 @@ https://www.google.com/search?q=ls+linux&oq=ls+linux&aqs=chrome..69i57j69i60j0l4
 
 http://debian-facile.org/doc:systeme:ls
 
+## how to upload folder and files on google cloud
+
+https://www.google.com/search?q=how+to+upload+folder+and+files+on+google+cloud&oq=how+to+upload+folder+and+files+on+google+cloud&aqs=chrome..69i57.18101j1j7&sourceid=chrome&ie=UTF-8
+
+https://cloud.google.com/storage/docs/uploading-objects?hl=fr
+
 
   
 
