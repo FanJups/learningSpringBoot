@@ -519,6 +519,12 @@ https://www.google.com/search?ei=gRWAXNWxFpH-arHaqKAO&q=how+to+translate+applica
 
 https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-external-config.html
 
+## ls linux
+
+https://www.google.com/search?q=ls+linux&oq=ls+linux&aqs=chrome..69i57j69i60j0l4.8581j1j7&sourceid=chrome&ie=UTF-8
+
+http://debian-facile.org/doc:systeme:ls
+
 
   
 
