@@ -569,6 +569,16 @@ https://medium.com/google-cloud/getting-started-with-google-app-engine-and-sprin
 
 https://github.com/FanJups/learningGoogleCloudPlatform
 
+## The redirect URI in the request, http://localhost:8080/login, does not match the ones authorized for the OAuth client
+
+https://www.google.com/search?q=The+redirect+URI+in+the+request%2C+http%3A%2F%2Flocalhost%3A8080%2Flogin%2C+does+not+match+the+ones+authorized+for+the+OAuth+client&oq=The+redirect+URI+in+the+request%2C+http%3A%2F%2Flocalhost%3A8080%2Flogin%2C+does+not+match+the+ones+authorized+for+the+OAuth+client&aqs=chrome..69i57.1189j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/22595174/google-oauth-the-redirect-uri-in-the-request-did-not-match-a-registered-redirec
+
+https://github.com/aellerton/demo-allauth-bootstrap/issues/17
+
+https://www.kb.blackbaud.co.uk/articles/Article/107069
+
 
 
 
