@@ -579,6 +579,16 @@ https://github.com/aellerton/demo-allauth-bootstrap/issues/17
 
 https://www.kb.blackbaud.co.uk/articles/Article/107069
 
+## spring boot Google OAuth2 Sign-In
+
+https://www.google.com/search?q=spring+boot+Google+OAuth2+Sign-In&oq=spring+boot+Google+OAuth2+Sign-In&aqs=chrome..69i57j69i60j0.4098j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.baeldung.com/spring-security-5-oauth2-login
+
+https://spring.io/guides/tutorials/spring-boot-oauth2/
+
+
+
 
 
 
