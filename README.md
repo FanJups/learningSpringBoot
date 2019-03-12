@@ -587,6 +587,12 @@ https://www.baeldung.com/spring-security-5-oauth2-login
 
 https://spring.io/guides/tutorials/spring-boot-oauth2/
 
+## illegal character ' u00a0'
+
+https://www.google.com/search?q=illegal+character+%27+u00a0%27&oq=illegal+character+%27&aqs=chrome.2.69i57j0l5.35786j1j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/47530656/illegal-character-u00a0
+
 
 
 
