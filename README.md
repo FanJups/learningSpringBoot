@@ -593,6 +593,14 @@ https://www.google.com/search?q=illegal+character+%27+u00a0%27&oq=illegal+charac
 
 https://stackoverflow.com/questions/47530656/illegal-character-u00a0
 
+## maven compilation failure illegal character
+
+https://www.google.com/search?q=maven+compilation+failure+illegal+character&oq=compilation+failure+ille&aqs=chrome.1.69i57j0l2.18960j1j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/17555504/illegal-character-65279-during-maven-compile-despite-being-set-to-utf-8
+
+
+
 
 
 
