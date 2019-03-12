@@ -599,6 +599,12 @@ https://www.google.com/search?q=maven+compilation+failure+illegal+character&oq=c
 
 https://stackoverflow.com/questions/17555504/illegal-character-65279-during-maven-compile-despite-being-set-to-utf-8
 
+## spring.thymeleaf.cache = false meaning
+
+https://www.google.com/search?ei=jzCIXLPnFMmWaNv3trAG&q=spring.thymeleaf.cache+%3D+false+meaning&oq=spring.thymeleaf.cache+%3D+false+meaning&gs_l=psy-ab.3...5961.9532..10028...0.0..0.132.735.6j2......0....1..gws-wiz.......0i22i30j33i160j33i21.g0HmjADBaXo
+
+https://blog.codeleak.pl/2016/12/thymeleaf-reload-templates-and-static-resources.html
+
 
 
 
