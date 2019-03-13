@@ -7,6 +7,8 @@ https://start.spring.io/
 
 ## SPRING BOOT ANGULAR TUTORIALS
 
+https://github.com/FanJups/learningSpringBoot/tree/master/springBootApplications/SpringBootAngularTraining
+
 https://o7planning.org/fr/11793/exemple-crud-avec-spring-boot-rest-et-angularjs
 
 ## package org.springframework.boot.web.support does not exist
