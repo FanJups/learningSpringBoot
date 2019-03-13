@@ -621,6 +621,10 @@ https://stackoverflow.com/questions/38627491/spring-4-hibernate-5-org-springfram
 
 https://stackoverflow.com/questions/51294282/entitymanagerholder-cannot-be-cast-to-org-springframework-orm-hibernate5-session/51301015#51301015
 
+https://stackoverflow.com/questions/40621357/org-springframework-orm-jpa-entitymanagerholder-cannot-be-cast-to-org-springfram?noredirect=1&lq=1
+
+http://www.tellmehow.co/solved-org-springframework-orm-jpa-entitymanagerholder-cannot-cast-org-springframework-orm-hibernate5-sessionholder/
+
 ## exclude=HibernateJpaAutoConfiguration.class
 
 https://www.google.com/search?q=exclude%3DHibernateJpaAutoConfiguration.class&oq=exclude%3DHibernateJpaAutoConfiguration.class&aqs=chrome..69i57.1173j0j7&sourceid=chrome&ie=UTF-8
@@ -644,6 +648,12 @@ https://www.google.com/search?q=import+enableautoconfiguration&oq=import+enable&
 https://www.logicbig.com/tutorials/spring-framework/spring-boot/enable-auto-config.html
 
 https://docs.spring.io/spring-boot/docs/current/reference/html/using-boot-using-springbootapplication-annotation.html
+
+## HibernateJpaAutoConfiguration.class
+
+https://www.google.com/search?q=HibernateJpaAutoConfiguration.class&oq=HibernateJpaAutoConfiguration.class&aqs=chrome..69i57j0l5.1674j0j7&sourceid=chrome&ie=UTF-8
+
+https://docs.spring.io/spring-boot/docs/current/api/org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaAutoConfiguration.html
 
 
 
