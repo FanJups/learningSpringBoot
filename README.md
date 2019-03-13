@@ -629,6 +629,22 @@ https://docs.spring.io/spring-boot/docs/current/reference/html/using-boot-auto-c
 
 https://stackoverflow.com/questions/36697176/exclude-hibernate-in-spring-boot-not-working
 
+## @enableautoconfiguration spring boot example
+
+https://www.google.com/search?q=%40enableautoconfiguration+spring+boot+example&oq=EnableAutoConfiguration&aqs=chrome.5.69i57j0l5.5079j0j7&sourceid=chrome&ie=UTF-8
+
+https://javabeat.net/enableautoconfiguration-spring-boot/
+
+https://www.baeldung.com/spring-boot-custom-auto-configuration
+
+## import enableautoconfiguration
+
+https://www.google.com/search?q=import+enableautoconfiguration&oq=import+enable&aqs=chrome.2.69i57j0l5.6567j1j7&sourceid=chrome&ie=UTF-8
+
+https://www.logicbig.com/tutorials/spring-framework/spring-boot/enable-auto-config.html
+
+https://docs.spring.io/spring-boot/docs/current/reference/html/using-boot-using-springbootapplication-annotation.html
+
 
 
 
