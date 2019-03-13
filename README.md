@@ -611,6 +611,24 @@ https://www.google.com/search?ei=jzCIXLPnFMmWaNv3trAG&q=spring.thymeleaf.cache+%
 
 https://blog.codeleak.pl/2016/12/thymeleaf-reload-templates-and-static-resources.html
 
+## entitymanagerholder cannot be cast to sessionholder
+
+https://www.google.com/search?q=entitymanagerholder+cannot+be+cast+to+sessionholder&oq=EntityManagerHol&aqs=chrome.1.69i57j0.13923j1j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/42476261/classcastexception-org-springframework-orm-jpa-entitymanagerholder-cannot-be-ca
+
+https://stackoverflow.com/questions/38627491/spring-4-hibernate-5-org-springframework-orm-jpa-entitymanagerholder-cannot/38637273#38637273
+
+https://stackoverflow.com/questions/51294282/entitymanagerholder-cannot-be-cast-to-org-springframework-orm-hibernate5-session/51301015#51301015
+
+## exclude=HibernateJpaAutoConfiguration.class
+
+https://www.google.com/search?q=exclude%3DHibernateJpaAutoConfiguration.class&oq=exclude%3DHibernateJpaAutoConfiguration.class&aqs=chrome..69i57.1173j0j7&sourceid=chrome&ie=UTF-8
+
+https://docs.spring.io/spring-boot/docs/current/reference/html/using-boot-auto-configuration.html
+
+https://stackoverflow.com/questions/36697176/exclude-hibernate-in-spring-boot-not-working
+
 
 
 
