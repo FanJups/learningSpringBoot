@@ -657,6 +657,12 @@ https://www.google.com/search?q=HibernateJpaAutoConfiguration.class&oq=Hibernate
 
 https://docs.spring.io/spring-boot/docs/current/api/org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaAutoConfiguration.html
 
+## use strict
+
+https://www.google.com/search?q=use+strict&oq=use+st&aqs=chrome.0.0l2j69i57j69i60l3.7084j1j7&sourceid=chrome&ie=UTF-8
+
+https://www.w3schools.com/js/js_strict.asp
+
 
 
 
