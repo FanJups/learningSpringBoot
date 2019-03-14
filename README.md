@@ -13,6 +13,8 @@ https://o7planning.org/fr/11793/exemple-crud-avec-spring-boot-rest-et-angularjs
 
 https://java2blog.com/spring-boot-angularjs-example/
 
+https://dzone.com/articles/java-8-springboot-angularjs-bootstrap-springdata-j
+
 ## package org.springframework.boot.web.support does not exist
 
 https://www.google.com/search?q=package+org.springframework.boot.web.support+does+not+exist&oq=package+org.springfr&aqs=chrome.5.69i57j0l5.41510j1j7&sourceid=chrome&ie=UTF-8
