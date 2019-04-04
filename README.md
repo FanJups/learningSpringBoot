@@ -724,6 +724,14 @@ https://stackoverflow.com/questions/10041938/how-to-choose-the-id-generation-str
 
 http://docs.jboss.org/hibernate/orm/3.3/reference/en/html/mapping.html#mapping-declaration-id
 
+## deleteAll sessionFactory hibernate
+
+https://www.google.com/search?q=deleteAll+sessionFactory+hibernate&oq=deleteAll+sessionFactory+hibernate+&aqs=chrome..69i57.26603j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/25097385/query-to-delete-all-rows-in-a-table-hibernate
+
+
+
 
 
 
