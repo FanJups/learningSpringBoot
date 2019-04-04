@@ -671,6 +671,26 @@ https://www.google.com/search?q=add+comment+in+yaml+file&oq=comment+in+yaml+&aqs
 
 https://stackoverflow.com/questions/2276572/how-do-you-do-block-comments-in-yaml
 
+## hbm2ddl spring boot
+
+https://www.google.com/search?q=hbm2ddl+spring+boot&oq=hbm2ddl&aqs=chrome.2.69i57j0l5.14956j0j7&sourceid=chrome&ie=UTF-8
+
+https://docs.spring.io/spring-boot/docs/current/reference/html/howto-database-initialization.html
+
+## standard root classpath locations: schema.sql
+
+https://www.google.com/search?q=standard+root+classpath+locations%3A+schema.sql&oq=standard+root+classpath+locations%3A+schema.sql&aqs=chrome..69i57.3091j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/38040572/spring-boot-loading-initial-data
+
+## mvn spring boot run profile
+
+https://www.google.com/search?q=mvn+spring+boot+run+profile&oq=mvn+spri&aqs=chrome.4.69i57j69i60l2j0l3.28349j0j7&sourceid=chrome&ie=UTF-8
+
+https://docs.spring.io/spring-boot/docs/current/maven-plugin/examples/run-profiles.html
+
+
+
 
 
 
