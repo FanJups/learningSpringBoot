@@ -689,6 +689,43 @@ https://www.google.com/search?q=mvn+spring+boot+run+profile&oq=mvn+spri&aqs=chro
 
 https://docs.spring.io/spring-boot/docs/current/maven-plugin/examples/run-profiles.html
 
+## jparepository findone
+
+https://www.google.com/search?q=jparepository+findone&oq=jpaRepository+find&aqs=chrome.2.69i57j0l5.27387j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/49561425/cant-use-findone-in-my-code-with-jparepository
+
+https://stackoverflow.com/questions/44101061/missing-crudrepositoryfindone-method/44103020#44103020
+
+## can not find sympol class Data Source Builder location package org.springframework.boot.jdbc
+https://www.google.com/search?q=can+not+find+sympol+class+Data+Source+Builder+location+package+org.springframework.boot.jdbc&oq=can+not+find+sympol+class+Data+Source+Builder+location+package+org.springframework.boot.jdbc&aqs=chrome..69i57j69i64.107678j0j7&sourceid=chrome&ie=UTF-8
+
+https://github.com/spring-projects/spring-boot/blob/master/spring-boot-project/spring-boot/src/main/java/org/springframework/boot/jdbc/DataSourceBuilder.java
+
+## can not convert Integer to User jpaRepository
+
+https://www.google.com/search?q=can+not+convert+Integer+to+User+jpaRepository&oq=can+not+convert+Integer+to+User+jpaRepository&aqs=chrome..69i57j69i64.32936j0j7&sourceid=chrome&ie=UTF-8
+
+## @generatedvalue(strategy = generationtype.auto) meaning
+
+https://www.google.com/search?q=%40generatedvalue(strategy+%3D+generationtype.auto)+meaning&oq=%40GeneratedValue(strategy+%3D+GenerationType.AUTO)+&aqs=chrome.1.69i57j0l5.13215j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.concretepage.com/hibernate/generatedvalue-strategy_generationtype-auto-hibernate
+
+## @generatedvalue(strategy = generationtype.identity) meaning
+
+https://www.google.com/search?ei=23GmXLKiM9acjLsP8-KwgAg&q=%40generatedvalue%28strategy+%3D+generationtype.identity%29+meaning&oq=%40generatedvalue%28strategy+%3D+generationtype.%29+meaning&gs_l=psy-ab.1.1.0i7i30l2.153484.155124..157675...0.0..0.90.317.4......0....1..gws-wiz.......0i71j35i304i39.Ib_nOdyFHiY
+
+https://www.concretepage.com/hibernate/generatedvalue-strategy_generationtype-identity-hibernate
+
+https://stackoverflow.com/questions/20603638/what-is-the-use-of-annotations-id-and-generatedvaluestrategy-generationtype
+
+https://stackoverflow.com/questions/10041938/how-to-choose-the-id-generation-strategy-when-using-jpa-and-hibernate
+
+http://docs.jboss.org/hibernate/orm/3.3/reference/en/html/mapping.html#mapping-declaration-id
+
+
+
 
 
 
