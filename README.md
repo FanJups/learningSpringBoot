@@ -665,6 +665,12 @@ https://www.google.com/search?q=use+strict&oq=use+st&aqs=chrome.0.0l2j69i57j69i6
 
 https://www.w3schools.com/js/js_strict.asp
 
+## add comment in yaml file
+
+https://www.google.com/search?q=add+comment+in+yaml+file&oq=comment+in+yaml+&aqs=chrome.3.69i57j0l5.12564j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/2276572/how-do-you-do-block-comments-in-yaml
+
 
 
 
