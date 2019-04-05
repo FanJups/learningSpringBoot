@@ -742,6 +742,16 @@ https://www.google.com/search?ei=BkWnXMjwA66DjLsPmeGr2AU&q=how+to+know+if+a+row+
 
 https://stackoverflow.com/questions/221514/hibernate-check-if-object-exists
 
+## hibernate.default_schema spring boot
+
+https://www.google.com/search?q=hibernate.default_schema+spring+boot&oq=defaultSchema+spr&aqs=chrome.3.69i57j0l5.10719j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/24278659/change-database-schema-used-by-spring-boot/24278772
+
+https://stackoverflow.com/questions/39430422/how-to-properly-specify-database-schema-in-spring-boot?rq=1
+
+https://stackoverflow.com/questions/4168689/is-it-possible-to-specify-the-schema-when-connecting-to-postgres-with-jdbc
+
 
 
 
