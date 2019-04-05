@@ -730,6 +730,18 @@ https://www.google.com/search?q=deleteAll+sessionFactory+hibernate&oq=deleteAll+
 
 https://stackoverflow.com/questions/25097385/query-to-delete-all-rows-in-a-table-hibernate
 
+## isUserExist session factory hibernate
+
+https://www.google.com/search?q=isUserExist+session+factory+hibernate&oq=isUserExist+session+factory+hibernate&aqs=chrome..69i57.26225j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.jmdoudoux.fr/java/dej/chap-hibernate.htm
+
+## how to know if a row already exists  session factory hibernate
+
+https://www.google.com/search?ei=BkWnXMjwA66DjLsPmeGr2AU&q=how+to+know+if+a+row+already+exists++session+factory+hibernate&oq=how+to+know+if+a+row+already+exists++session+factory+hibernate&gs_l=psy-ab.3...287201.304985..309366...0.0..0.145.3775.37j8......0....1..gws-wiz.......0i71j0i67j0i7i30j0i7i10i30j0i203j0i10i203j0i30j0i10i30j0i8i7i30j0i8i7i10i30j0i8i30j0i8i10i30j0i8i13i30j33i10.aZ4tWvgYX5U
+
+https://stackoverflow.com/questions/221514/hibernate-check-if-object-exists
+
 
 
 
