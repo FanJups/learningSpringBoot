@@ -764,6 +764,20 @@ https://www.google.com/search?q=failed+to+load+resource+the+server+responded+wit
 
 https://stackoverflow.com/questions/22317206/failed-to-load-resource-the-server-responded-with-a-status-of-404-not-found
 
+## how to link css to ftl file spring boot
+
+https://www.google.com/search?q=how+to+link+css+to+ftl+file+spring+boot&oq=how+to+link+css+to+ftl+file+spring+boot&aqs=chrome..69i57.19626j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/6944897/link-include-css-in-freemarker-using-spring-3-mvc
+
+https://o7planning.org/en/11547/spring-boot-and-freemarker-tutorial
+
+## how to link js to ftl file spring boot
+
+https://www.google.com/search?ei=YdmnXJScAtGtgwfDwaJg&q=how+to+link+js+to+ftl+file+spring+boot&oq=how+to+link+js+to+ftl+file+spring+boot&gs_l=psy-ab.3...2778416.2780494..2781073...0.0..0.92.412.5......0....1..gws-wiz.......0i71.YNlhXJTNZ9U
+
+
+
 
 
 
