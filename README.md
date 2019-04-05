@@ -752,6 +752,18 @@ https://stackoverflow.com/questions/39430422/how-to-properly-specify-database-sc
 
 https://stackoverflow.com/questions/4168689/is-it-possible-to-specify-the-schema-when-connecting-to-postgres-with-jdbc
 
+## populate mysql database spring boot
+
+https://www.google.com/search?q=populate+mysql+database+spring+boot&oq=populate+mysql+database+spring+boot&aqs=chrome..69i57.19139j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/40288025/populate-mysql-db-with-initial-data-from-sql-file-in-spring-boot
+
+## failed to load resource the server responded with a status of 404 (not found)
+
+https://www.google.com/search?q=failed+to+load+resource+the+server+responded+with+a+status+of+404+(not+found)&oq=failed+to+load+res&aqs=chrome.1.69i57j0l5.10704j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/22317206/failed-to-load-resource-the-server-responded-with-a-status-of-404-not-found
+
 
 
 
