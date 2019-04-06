@@ -776,6 +776,14 @@ https://o7planning.org/en/11547/spring-boot-and-freemarker-tutorial
 
 https://www.google.com/search?ei=YdmnXJScAtGtgwfDwaJg&q=how+to+link+js+to+ftl+file+spring+boot&oq=how+to+link+js+to+ftl+file+spring+boot&gs_l=psy-ab.3...2778416.2780494..2781073...0.0..0.92.412.5......0....1..gws-wiz.......0i71.YNlhXJTNZ9U
 
+## contextpath spring boot
+
+https://www.google.com/search?q=contextpath+spring+boot&oq=contextPath&aqs=chrome.1.69i57j0l5.15321j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.baeldung.com/spring-boot-context-path
+
+https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
+
 
 
 
