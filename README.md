@@ -790,6 +790,20 @@ https://www.google.com/search?q=hibernate+table+is+not+mapped&oq=hibernate+tab&a
 
 https://stackoverflow.com/questions/14446048/hibernate-table-not-mapped-error-in-hql-query
 
+## hibernate session.load
+
+https://www.google.com/search?q=hibernate+session.load&oq=hibernate+session.load&aqs=chrome..69i57j0l5.12989j0j7&sourceid=chrome&ie=UTF-8
+
+https://docs.jboss.org/hibernate/orm/3.5/api/org/hibernate/Session.html
+
+## hibernate how to know if a row exists
+
+https://www.google.com/search?ei=cZWoXN_SGJudjLsP0PWjkAo&q=hibernate+how+to+know+if+a+row+exists&oq=hibernate+how+to+know+if+a+row+&gs_l=psy-ab.1.0.33i22i29i30.242439.261939..263691...2.0..0.128.3027.29j6......0....1..gws-wiz.......35i39i19j0i203j0i22i30j0j0i20i263j35i39.jo1gTJWnPTU
+
+https://medium.com/@wkrzywiec/how-to-check-if-user-exist-in-database-using-hibernate-validator-eab110429a6
+
+
+
 
 
 
