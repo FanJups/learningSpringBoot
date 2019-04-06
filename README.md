@@ -784,6 +784,12 @@ https://www.baeldung.com/spring-boot-context-path
 
 https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
 
+## hibernate table is not mapped
+
+https://www.google.com/search?q=hibernate+table+is+not+mapped&oq=hibernate+tab&aqs=chrome.3.69i57j69i60l2j0l3.10656j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/14446048/hibernate-table-not-mapped-error-in-hql-query
+
 
 
 
