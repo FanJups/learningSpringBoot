@@ -43,13 +43,13 @@ public class EmailController {
 			   
 			   Session session = Session.getInstance(props, new javax.mail.Authenticator() {
 			      protected PasswordAuthentication getPasswordAuthentication() {
-			         return new PasswordAuthentication("jupsfan@gmail.com", "04102012csepSCP4HWCGOOGLE");
+			         return new PasswordAuthentication("xxxx@gmail.com", "xxxxxxxxxxpassword");
 			      }
 			   });
 			   Message msg = new MimeMessage(session);
-			   msg.setFrom(new InternetAddress("jupsfan@gmail.com", false));
+			   msg.setFrom(new InternetAddress("xxxx@gmail.com", false));
 
-			   msg.setRecipients(Message.RecipientType.TO, InternetAddress.parse("jupsfan@gmail.com"));
+			   msg.setRecipients(Message.RecipientType.TO, InternetAddress.parse("xxxx@gmail.com"));
 			   msg.setSubject("Tutorials point email");
 			   msg.setContent("Tutorials point email", "text/html");
 			   msg.setSentDate(new Date());
